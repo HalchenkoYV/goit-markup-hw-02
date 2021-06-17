@@ -22,7 +22,7 @@ a {
   text-decoration: none;
 }
 
-/* LOGO */
+==========================================================/* LOGO */==========================================================
 .logo {
   font-family: Raleway;
   font-weight: bold;
@@ -36,7 +36,7 @@ a {
   color: rgba(33, 150, 243, 1);
 }
 
-/* NAVIGATION */
+==========================================================/* NAVIGATION */====================================================
 .navigation-link {
   font-weight: 500;
   font-size: 14px;
@@ -68,7 +68,7 @@ a {
   color: var(--acent-color);
 }
 
-/* HERO */
+=========================================================/* HERO */==============================================
 .hero {
   background-color: rgba(47, 48, 58, 1);
 }
@@ -101,7 +101,7 @@ a {
   background-color: #188ce8;
   color: fffffff;
 }
-
+=================================================================/* MAIN-CONTENT */==============================================
 .header-typeh2 {
   font-size: 36px;
   line-height: 1.17;
@@ -141,7 +141,7 @@ a {
   letter-spacing: 0.03em;
   color: var(--third-text);
 }
-
+=============================================================/* FOOTER */==========================================================
 .address-build {
   font-style: normal;
   font-size: 14px;
@@ -152,6 +152,19 @@ a {
 
 .footer {
   background-color: rgba(47, 48, 58, 1);
+}
+
+.logo-footer {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 1);
+}
+.logo-footer span {
+  color: rgba(33, 150, 243, 1);
 }
 
 .footer-contact {
@@ -168,7 +181,7 @@ a {
 .footer-contact:focus {
   color: var(--acent-color);
 }
-
+==========================================================================/* PORTFOLIO */===================================================
 .portfolio-button {
   font-family: Roboto;
   font-weight: 500;
